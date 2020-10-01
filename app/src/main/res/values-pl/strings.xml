@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app_name</string>
+
+    <string name="wait_please">Proszę czekać…</string>
+
+    <string name="unknown_error">Wystąpił nieznany błąd. Kod błędu: %d</string>
+</resources>
